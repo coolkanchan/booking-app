@@ -14,7 +14,7 @@
     <name>backend</name>
     <description>backend</description>
     <properties>
-        <java.version>23</java.version>
+        <java.version>21</java.version>
     </properties>
     <dependencies>
         <!-- Spring Boot Starter for Web (REST Controllers) -->

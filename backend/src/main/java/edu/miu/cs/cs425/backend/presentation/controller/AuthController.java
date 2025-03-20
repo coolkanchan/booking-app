@@ -1,4 +1,4 @@
-package edu.miu.cs.cs425.backend.controller;
+package edu.miu.cs.cs425.backend.presentation.controller;
 
 import edu.miu.cs.cs425.backend.dto.AuthResponse;
 import edu.miu.cs.cs425.backend.dto.LoginRequest;
